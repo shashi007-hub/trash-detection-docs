@@ -1,4 +1,4 @@
-# Trash Detection and Reporting using Yolov5,ServiceNow and Drone Kit
+# A Drone-Based Smart Waste Monitoring System Incorporating YOLOv5 and Cloud Workflow Automation
 
 ## Problem Statement
 We aim to provide the higher authorities responsible for sanitation and cleaning of large areas or intuitions a method for evaluation the work of their subordinates without manually inspecting the areas which might be kilometers apart.
